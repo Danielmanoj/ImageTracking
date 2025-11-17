@@ -111,7 +111,7 @@ audio.pause();
 
 ## OUTPUT:
 
-
+<img width="1117" height="552" alt="image" src="https://github.com/user-attachments/assets/e6e67ae9-3dcb-429d-abe6-4fd40f9ca3af" />
 
 
 ## RESULT:
